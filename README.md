@@ -1,0 +1,2 @@
+# TaipeiUniv
+AI On Trading
